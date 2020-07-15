@@ -1,0 +1,19 @@
+{
+  "name": "react_to_do_list_test",
+  "version": "1.0.0",
+  "description": "To Do List on react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rauf-babayev/react_to_do_list_test.git"
+  },
+  "author": "Rauf Babayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rauf-babayev/react_to_do_list_test/issues"
+  },
+  "homepage": "https://github.com/rauf-babayev/react_to_do_list_test#readme"
+}
