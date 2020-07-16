@@ -1,0 +1,19 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+}
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.todo-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
